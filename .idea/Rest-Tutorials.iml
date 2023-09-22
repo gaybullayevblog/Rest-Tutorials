@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="todo_project" />
     <orderEntry type="module" module-name="Todo_list" />
+    <orderEntry type="module" module-name="blogapi" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
